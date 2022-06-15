@@ -157,4 +157,13 @@ img {
     .col {
         margin-top: 2.5rem;
     }
+    .steps {
+        margin-bottom: 0;
+    }
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
 }
